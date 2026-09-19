@@ -16,6 +16,7 @@
 
 #include "FluidData.h"
 
+#include <iostream>
 #include <vtkDataArray.h>
 #include <vtkPointData.h>
 #include <vtkPolyDataReader.h>
